@@ -1,0 +1,381 @@
+"","State","Dist.","ltd","lng","Year","Month","Cases"
+"1","Maharastra","Solapura",75.9064,17.6599,2018,"April",6
+"2","Maharastra","Solapura",75.9064,17.6599,2018,"May",10
+"3","Maharastra","Solapura",75.9064,17.6599,2018,"June",6
+"4","Maharastra","Solapura",75.9064,17.6599,2018,"July",6
+"5","Maharastra","Solapura",75.9064,17.6599,2018,"August",3
+"6","Maharastra","Solapura",75.9064,17.6599,2018,"September",3
+"7","Maharastra","Solapura",75.9064,17.6599,2018,"October",10
+"8","Maharastra","Solapura",75.9064,17.6599,2018,"November",10
+"9","Maharastra","Solapura",75.9064,17.6599,2018,"December",6
+"10","Maharastra","Solapura",75.9064,17.6599,2019,"January",11
+"11","Maharastra","Solapura",75.9064,17.6599,2019,"February",8
+"12","Maharastra","Solapura",75.9064,17.6599,2019,"March",13
+"13","Maharastra","Solapura",75.9064,17.6599,2019,"April",1
+"14","Maharastra","Solapura",75.9064,17.6599,2019,"May",3
+"15","Maharastra","Solapura",75.9064,17.6599,2019,"June",10
+"16","Maharastra","Solapura",75.9064,17.6599,2019,"July",6
+"17","Maharastra","Solapura",75.9064,17.6599,2019,"August",3
+"18","Maharastra","Solapura",75.9064,17.6599,2019,"September",11
+"19","Maharastra","Solapura",75.9064,17.6599,2019,"October",6
+"20","Maharastra","Solapura",75.9064,17.6599,2019,"November",8
+"21","Maharastra","Solapura",75.9064,17.6599,2019,"December",6
+"22","Maharastra","Solapura",75.9064,17.6599,2020,"January",10
+"23","Maharastra","Solapura",75.9064,17.6599,2020,"February",6
+"24","Maharastra","Solapura",75.9064,17.6599,2020,"March",6
+"25","Maharastra","Solapura",75.9064,17.6599,2020,"April",1
+"26","Maharastra","Solapura",75.9064,17.6599,2020,"May",1
+"27","Maharastra","Solapura",75.9064,17.6599,2020,"June",1
+"28","Maharastra","Solapura",75.9064,17.6599,2020,"July",8
+"29","Maharastra","Solapura",75.9064,17.6599,2020,"August",12
+"30","Maharastra","Solapura",75.9064,17.6599,2020,"September",5
+"31","Maharastra","Solapura",75.9064,17.6599,2020,"October",7
+"32","Maharastra","Solapura",75.9064,17.6599,2020,"November",6
+"33","Maharastra","Solapura",75.9064,17.6599,2020,"December",12
+"34","Maharastra","Solapura",75.9064,17.6599,2021,"January",11
+"35","Maharastra","Solapura",75.9064,17.6599,2021,"February",11
+"36","Maharastra","Solapura",75.9064,17.6599,2021,"March",20
+"37","Maharastra","Solapura",75.9064,17.6599,2021,"April",1
+"38","Maharastra","Solapura",75.9064,17.6599,2021,"May",0
+"39","Odisha","Nayagarh",85.1038,20.1231,2018,"April",16
+"40","Odisha","Nayagarh",85.1038,20.1231,2018,"May",14
+"41","Odisha","Nayagarh",85.1038,20.1231,2018,"June",31
+"42","Odisha","Nayagarh",85.1038,20.1231,2018,"July",10
+"43","Odisha","Nayagarh",85.1038,20.1231,2018,"August",30
+"44","Odisha","Nayagarh",85.1038,20.1231,2018,"September",26
+"45","Odisha","Nayagarh",85.1038,20.1231,2018,"October",30
+"46","Odisha","Nayagarh",85.1038,20.1231,2018,"November",18
+"47","Odisha","Nayagarh",85.1038,20.1231,2018,"December",30
+"48","Odisha","Nayagarh",85.1038,20.1231,2019,"January",39
+"49","Odisha","Nayagarh",85.1038,20.1231,2019,"February",22
+"50","Odisha","Nayagarh",85.1038,20.1231,2019,"March",26
+"51","Odisha","Nayagarh",85.1038,20.1231,2019,"April",13
+"52","Odisha","Nayagarh",85.1038,20.1231,2019,"May",24
+"53","Odisha","Nayagarh",85.1038,20.1231,2019,"June",13
+"54","Odisha","Nayagarh",85.1038,20.1231,2019,"July",21
+"55","Odisha","Nayagarh",85.1038,20.1231,2019,"August",24
+"56","Odisha","Nayagarh",85.1038,20.1231,2019,"September",41
+"57","Odisha","Nayagarh",85.1038,20.1231,2019,"October",34
+"58","Odisha","Nayagarh",85.1038,20.1231,2019,"November",26
+"59","Odisha","Nayagarh",85.1038,20.1231,2019,"December",32
+"60","Odisha","Nayagarh",85.1038,20.1231,2020,"January",23
+"61","Odisha","Nayagarh",85.1038,20.1231,2020,"February",25
+"62","Odisha","Nayagarh",85.1038,20.1231,2020,"March",8
+"63","Odisha","Nayagarh",85.1038,20.1231,2020,"April",2
+"64","Odisha","Nayagarh",85.1038,20.1231,2020,"May",24
+"65","Odisha","Nayagarh",85.1038,20.1231,2020,"June",25
+"66","Odisha","Nayagarh",85.1038,20.1231,2020,"July",12
+"67","Odisha","Nayagarh",85.1038,20.1231,2020,"August",29
+"68","Odisha","Nayagarh",85.1038,20.1231,2020,"September",32
+"69","Odisha","Nayagarh",85.1038,20.1231,2020,"October",35
+"70","Odisha","Nayagarh",85.1038,20.1231,2020,"November",43
+"71","Odisha","Nayagarh",85.1038,20.1231,2020,"December",29
+"72","Odisha","Nayagarh",85.1038,20.1231,2021,"January",44
+"73","Odisha","Nayagarh",85.1038,20.1231,2021,"February",29
+"74","Odisha","Nayagarh",85.1038,20.1231,2021,"March",34
+"75","Odisha","Nayagarh",85.1038,20.1231,2021,"April",33
+"76","Odisha","Nayagarh",85.1038,20.1231,2021,"May",5
+"77","Odisha","Jharsuguda",84.0062,21.8554,2018,"April",32
+"78","Odisha","Jharsuguda",84.0062,21.8554,2018,"May",40
+"79","Odisha","Jharsuguda",84.0062,21.8554,2018,"June",37
+"80","Odisha","Jharsuguda",84.0062,21.8554,2018,"July",40
+"81","Odisha","Jharsuguda",84.0062,21.8554,2018,"August",26
+"82","Odisha","Jharsuguda",84.0062,21.8554,2018,"September",21
+"83","Odisha","Jharsuguda",84.0062,21.8554,2018,"October",14
+"84","Odisha","Jharsuguda",84.0062,21.8554,2018,"November",36
+"85","Odisha","Jharsuguda",84.0062,21.8554,2018,"December",35
+"86","Odisha","Jharsuguda",84.0062,21.8554,2019,"January",23
+"87","Odisha","Jharsuguda",84.0062,21.8554,2019,"February",32
+"88","Odisha","Jharsuguda",84.0062,21.8554,2019,"March",24
+"89","Odisha","Jharsuguda",84.0062,21.8554,2019,"April",35
+"90","Odisha","Jharsuguda",84.0062,21.8554,2019,"May",16
+"91","Odisha","Jharsuguda",84.0062,21.8554,2019,"June",24
+"92","Odisha","Jharsuguda",84.0062,21.8554,2019,"July",27
+"93","Odisha","Jharsuguda",84.0062,21.8554,2019,"August",31
+"94","Odisha","Jharsuguda",84.0062,21.8554,2019,"September",53
+"95","Odisha","Jharsuguda",84.0062,21.8554,2019,"October",27
+"96","Odisha","Jharsuguda",84.0062,21.8554,2019,"November",32
+"97","Odisha","Jharsuguda",84.0062,21.8554,2019,"December",28
+"98","Odisha","Jharsuguda",84.0062,21.8554,2020,"January",21
+"99","Odisha","Jharsuguda",84.0062,21.8554,2020,"February",29
+"100","Odisha","Jharsuguda",84.0062,21.8554,2020,"March",14
+"101","Odisha","Jharsuguda",84.0062,21.8554,2020,"April",0
+"102","Odisha","Jharsuguda",84.0062,21.8554,2020,"May",27
+"103","Odisha","Jharsuguda",84.0062,21.8554,2020,"June",18
+"104","Odisha","Jharsuguda",84.0062,21.8554,2020,"July",25
+"105","Odisha","Jharsuguda",84.0062,21.8554,2020,"August",13
+"106","Odisha","Jharsuguda",84.0062,21.8554,2020,"September",20
+"107","Odisha","Jharsuguda",84.0062,21.8554,2020,"October",34
+"108","Odisha","Jharsuguda",84.0062,21.8554,2020,"November",39
+"109","Odisha","Jharsuguda",84.0062,21.8554,2020,"December",25
+"110","Odisha","Jharsuguda",84.0062,21.8554,2021,"January",46
+"111","Odisha","Jharsuguda",84.0062,21.8554,2021,"February",37
+"112","Odisha","Jharsuguda",84.0062,21.8554,2021,"March",30
+"113","Odisha","Jharsuguda",84.0062,21.8554,2021,"April",33
+"114","Odisha","Jharsuguda",84.0062,21.8554,2021,"May",10
+"115","Odisha","Kendrapara",86.4289,20.4969,2018,"April",99
+"116","Odisha","Kendrapara",86.4289,20.4969,2018,"May",97
+"117","Odisha","Kendrapara",86.4289,20.4969,2018,"June",71
+"118","Odisha","Kendrapara",86.4289,20.4969,2018,"July",98
+"119","Odisha","Kendrapara",86.4289,20.4969,2018,"August",83
+"120","Odisha","Kendrapara",86.4289,20.4969,2018,"September",55
+"121","Odisha","Kendrapara",86.4289,20.4969,2018,"October",76
+"122","Odisha","Kendrapara",86.4289,20.4969,2018,"November",87
+"123","Odisha","Kendrapara",86.4289,20.4969,2018,"December",90
+"124","Odisha","Kendrapara",86.4289,20.4969,2019,"January",96
+"125","Odisha","Kendrapara",86.4289,20.4969,2019,"February",145
+"126","Odisha","Kendrapara",86.4289,20.4969,2019,"March",122
+"127","Odisha","Kendrapara",86.4289,20.4969,2019,"April",81
+"128","Odisha","Kendrapara",86.4289,20.4969,2019,"May",47
+"129","Odisha","Kendrapara",86.4289,20.4969,2019,"June",81
+"130","Odisha","Kendrapara",86.4289,20.4969,2019,"July",103
+"131","Odisha","Kendrapara",86.4289,20.4969,2019,"August",92
+"132","Odisha","Kendrapara",86.4289,20.4969,2019,"September",109
+"133","Odisha","Kendrapara",86.4289,20.4969,2019,"October",83
+"134","Odisha","Kendrapara",86.4289,20.4969,2019,"November",103
+"135","Odisha","Kendrapara",86.4289,20.4969,2019,"December",141
+"136","Odisha","Kendrapara",86.4289,20.4969,2020,"January",86
+"137","Odisha","Kendrapara",86.4289,20.4969,2020,"February",151
+"138","Odisha","Kendrapara",86.4289,20.4969,2020,"March",73
+"139","Odisha","Kendrapara",86.4289,20.4969,2020,"April",0
+"140","Odisha","Kendrapara",86.4289,20.4969,2020,"May",74
+"141","Odisha","Kendrapara",86.4289,20.4969,2020,"June",91
+"142","Odisha","Kendrapara",86.4289,20.4969,2020,"July",107
+"143","Odisha","Kendrapara",86.4289,20.4969,2020,"August",79
+"144","Odisha","Kendrapara",86.4289,20.4969,2020,"September",29
+"145","Odisha","Kendrapara",86.4289,20.4969,2020,"October",147
+"146","Odisha","Kendrapara",86.4289,20.4969,2020,"November",166
+"147","Odisha","Kendrapara",86.4289,20.4969,2020,"December",127
+"148","Odisha","Kendrapara",86.4289,20.4969,2021,"January",148
+"149","Odisha","Kendrapara",86.4289,20.4969,2021,"February",185
+"150","Odisha","Kendrapara",86.4289,20.4969,2021,"March",136
+"151","Odisha","Kendrapara",86.4289,20.4969,2021,"April",146
+"152","Odisha","Kendrapara",86.4289,20.4969,2021,"May",45
+"153","Tripura","Sepahijala",91.3276,23.6148,2018,"April",7
+"154","Tripura","Sepahijala",91.3276,23.6148,2018,"May",25
+"155","Tripura","Sepahijala",91.3276,23.6148,2018,"June",10
+"156","Tripura","Sepahijala",91.3276,23.6148,2018,"July",1
+"157","Tripura","Sepahijala",91.3276,23.6148,2018,"August",9
+"158","Tripura","Sepahijala",91.3276,23.6148,2018,"September",12
+"159","Tripura","Sepahijala",91.3276,23.6148,2018,"October",4
+"160","Tripura","Sepahijala",91.3276,23.6148,2018,"November",15
+"161","Tripura","Sepahijala",91.3276,23.6148,2018,"December",33
+"162","Tripura","Sepahijala",91.3276,23.6148,2019,"January",11
+"163","Tripura","Sepahijala",91.3276,23.6148,2019,"February",14
+"164","Tripura","Sepahijala",91.3276,23.6148,2019,"March",11
+"165","Tripura","Sepahijala",91.3276,23.6148,2019,"April",9
+"166","Tripura","Sepahijala",91.3276,23.6148,2019,"May",7
+"167","Tripura","Sepahijala",91.3276,23.6148,2019,"June",9
+"168","Tripura","Sepahijala",91.3276,23.6148,2019,"July",13
+"169","Tripura","Sepahijala",91.3276,23.6148,2019,"August",15
+"170","Tripura","Sepahijala",91.3276,23.6148,2019,"September",5
+"171","Tripura","Sepahijala",91.3276,23.6148,2019,"October",12
+"172","Tripura","Sepahijala",91.3276,23.6148,2019,"November",14
+"173","Tripura","Sepahijala",91.3276,23.6148,2019,"December",12
+"174","Tripura","Sepahijala",91.3276,23.6148,2020,"January",12
+"175","Tripura","Sepahijala",91.3276,23.6148,2020,"February",36
+"176","Tripura","Sepahijala",91.3276,23.6148,2020,"March",21
+"177","Tripura","Sepahijala",91.3276,23.6148,2020,"April",1
+"178","Tripura","Sepahijala",91.3276,23.6148,2020,"May",10
+"179","Tripura","Sepahijala",91.3276,23.6148,2020,"June",16
+"180","Tripura","Sepahijala",91.3276,23.6148,2020,"July",6
+"181","Tripura","Sepahijala",91.3276,23.6148,2020,"August",15
+"182","Tripura","Sepahijala",91.3276,23.6148,2020,"September",12
+"183","Tripura","Sepahijala",91.3276,23.6148,2020,"October",20
+"184","Tripura","Sepahijala",91.3276,23.6148,2020,"November",11
+"185","Tripura","Sepahijala",91.3276,23.6148,2020,"December",16
+"186","Tripura","Sepahijala",91.3276,23.6148,2021,"January",10
+"187","Tripura","Sepahijala",91.3276,23.6148,2021,"February",22
+"188","Tripura","Sepahijala",91.3276,23.6148,2021,"March",22
+"189","Tripura","Sepahijala",91.3276,23.6148,2021,"April",6
+"190","Tripura","Sepahijala",91.3276,23.6148,2021,"May",6
+"191","Tripura","North Tripura",92.263,24.0797,2018,"April",247
+"192","Tripura","North Tripura",92.263,24.0797,2018,"May",219
+"193","Tripura","North Tripura",92.263,24.0797,2018,"June",229
+"194","Tripura","North Tripura",92.263,24.0797,2018,"July",243
+"195","Tripura","North Tripura",92.263,24.0797,2018,"August",243
+"196","Tripura","North Tripura",92.263,24.0797,2018,"September",183
+"197","Tripura","North Tripura",92.263,24.0797,2018,"October",210
+"198","Tripura","North Tripura",92.263,24.0797,2018,"November",209
+"199","Tripura","North Tripura",92.263,24.0797,2018,"December",260
+"200","Tripura","North Tripura",92.263,24.0797,2019,"January",266
+"201","Tripura","North Tripura",92.263,24.0797,2019,"February",277
+"202","Tripura","North Tripura",92.263,24.0797,2019,"March",290
+"203","Tripura","North Tripura",92.263,24.0797,2019,"April",184
+"204","Tripura","North Tripura",92.263,24.0797,2019,"May",276
+"205","Tripura","North Tripura",92.263,24.0797,2019,"June",251
+"206","Tripura","North Tripura",92.263,24.0797,2019,"July",225
+"207","Tripura","North Tripura",92.263,24.0797,2019,"August",260
+"208","Tripura","North Tripura",92.263,24.0797,2019,"September",295
+"209","Tripura","North Tripura",92.263,24.0797,2019,"October",206
+"210","Tripura","North Tripura",92.263,24.0797,2019,"November",227
+"211","Tripura","North Tripura",92.263,24.0797,2019,"December",201
+"212","Tripura","North Tripura",92.263,24.0797,2020,"January",249
+"213","Tripura","North Tripura",92.263,24.0797,2020,"February",285
+"214","Tripura","North Tripura",92.263,24.0797,2020,"March",209
+"215","Tripura","North Tripura",92.263,24.0797,2020,"April",116
+"216","Tripura","North Tripura",92.263,24.0797,2020,"May",187
+"217","Tripura","North Tripura",92.263,24.0797,2020,"June",255
+"218","Tripura","North Tripura",92.263,24.0797,2020,"July",298
+"219","Tripura","North Tripura",92.263,24.0797,2020,"August",257
+"220","Tripura","North Tripura",92.263,24.0797,2020,"September",249
+"221","Tripura","North Tripura",92.263,24.0797,2020,"October",199
+"222","Tripura","North Tripura",92.263,24.0797,2020,"November",196
+"223","Tripura","North Tripura",92.263,24.0797,2020,"December",248
+"224","Tripura","North Tripura",92.263,24.0797,2021,"January",209
+"225","Tripura","North Tripura",92.263,24.0797,2021,"February",226
+"226","Tripura","North Tripura",92.263,24.0797,2021,"March",183
+"227","Tripura","North Tripura",92.263,24.0797,2021,"April",236
+"228","Tripura","North Tripura",92.263,24.0797,2021,"May",168
+"229","Tripura","Sepahijala",91.3276,23.6148,2018,"April",52
+"230","Tripura","Sepahijala",91.3276,23.6148,2018,"May",91
+"231","Tripura","Sepahijala",91.3276,23.6148,2018,"June",51
+"232","Tripura","Sepahijala",91.3276,23.6148,2018,"July",50
+"233","Tripura","Sepahijala",91.3276,23.6148,2018,"August",39
+"234","Tripura","Sepahijala",91.3276,23.6148,2018,"September",30
+"235","Tripura","Sepahijala",91.3276,23.6148,2018,"October",52
+"236","Tripura","Sepahijala",91.3276,23.6148,2018,"November",40
+"237","Tripura","Sepahijala",91.3276,23.6148,2018,"December",107
+"238","Tripura","Sepahijala",91.3276,23.6148,2019,"January",87
+"239","Tripura","Sepahijala",91.3276,23.6148,2019,"February",99
+"240","Tripura","Sepahijala",91.3276,23.6148,2019,"March",78
+"241","Tripura","Sepahijala",91.3276,23.6148,2019,"April",26
+"242","Tripura","Sepahijala",91.3276,23.6148,2019,"May",53
+"243","Tripura","Sepahijala",91.3276,23.6148,2019,"June",55
+"244","Tripura","Sepahijala",91.3276,23.6148,2019,"July",40
+"245","Tripura","Sepahijala",91.3276,23.6148,2019,"August",37
+"246","Tripura","Sepahijala",91.3276,23.6148,2019,"September",51
+"247","Tripura","Sepahijala",91.3276,23.6148,2019,"October",36
+"248","Tripura","Sepahijala",91.3276,23.6148,2019,"November",45
+"249","Tripura","Sepahijala",91.3276,23.6148,2019,"December",65
+"250","Tripura","Sepahijala",91.3276,23.6148,2020,"January",88
+"251","Tripura","Sepahijala",91.3276,23.6148,2020,"February",60
+"252","Tripura","Sepahijala",91.3276,23.6148,2020,"March",42
+"253","Tripura","Sepahijala",91.3276,23.6148,2020,"April",10
+"254","Tripura","Sepahijala",91.3276,23.6148,2020,"May",70
+"255","Tripura","Sepahijala",91.3276,23.6148,2020,"June",54
+"256","Tripura","Sepahijala",91.3276,23.6148,2020,"July",47
+"257","Tripura","Sepahijala",91.3276,23.6148,2020,"August",47
+"258","Tripura","Sepahijala",91.3276,23.6148,2020,"September",49
+"259","Tripura","Sepahijala",91.3276,23.6148,2020,"October",57
+"260","Tripura","Sepahijala",91.3276,23.6148,2020,"November",74
+"261","Tripura","Sepahijala",91.3276,23.6148,2020,"December",59
+"262","Tripura","Sepahijala",91.3276,23.6148,2021,"January",100
+"263","Tripura","Sepahijala",91.3276,23.6148,2021,"February",70
+"264","Tripura","Sepahijala",91.3276,23.6148,2021,"March",35
+"265","Tripura","Sepahijala",91.3276,23.6148,2021,"April",18
+"266","Tripura","Sepahijala",91.3276,23.6148,2021,"May",66
+"267","Maharastra","Akola",77.0082,20.7002,2018,"April",0
+"268","Maharastra","Akola",77.0082,20.7002,2018,"May",0
+"269","Maharastra","Akola",77.0082,20.7002,2018,"June",0
+"270","Maharastra","Akola",77.0082,20.7002,2018,"July",1
+"271","Maharastra","Akola",77.0082,20.7002,2018,"August",0
+"272","Maharastra","Akola",77.0082,20.7002,2018,"September",0
+"273","Maharastra","Akola",77.0082,20.7002,2018,"October",0
+"274","Maharastra","Akola",77.0082,20.7002,2018,"November",0
+"275","Maharastra","Akola",77.0082,20.7002,2018,"December",1
+"276","Maharastra","Akola",77.0082,20.7002,2019,"January",0
+"277","Maharastra","Akola",77.0082,20.7002,2019,"February",0
+"278","Maharastra","Akola",77.0082,20.7002,2019,"March",3
+"279","Maharastra","Akola",77.0082,20.7002,2019,"April",0
+"280","Maharastra","Akola",77.0082,20.7002,2019,"May",0
+"281","Maharastra","Akola",77.0082,20.7002,2019,"June",1
+"282","Maharastra","Akola",77.0082,20.7002,2019,"July",0
+"283","Maharastra","Akola",77.0082,20.7002,2019,"August",0
+"284","Maharastra","Akola",77.0082,20.7002,2019,"September",0
+"285","Maharastra","Akola",77.0082,20.7002,2019,"October",1
+"286","Maharastra","Akola",77.0082,20.7002,2019,"November",0
+"287","Maharastra","Akola",77.0082,20.7002,2019,"December",0
+"288","Maharastra","Akola",77.0082,20.7002,2020,"January",0
+"289","Maharastra","Akola",77.0082,20.7002,2020,"February",0
+"290","Maharastra","Akola",77.0082,20.7002,2020,"March",2
+"291","Maharastra","Akola",77.0082,20.7002,2020,"April",0
+"292","Maharastra","Akola",77.0082,20.7002,2020,"May",0
+"293","Maharastra","Akola",77.0082,20.7002,2020,"June",0
+"294","Maharastra","Akola",77.0082,20.7002,2020,"July",0
+"295","Maharastra","Akola",77.0082,20.7002,2020,"August",0
+"296","Maharastra","Akola",77.0082,20.7002,2020,"September",0
+"297","Maharastra","Akola",77.0082,20.7002,2020,"October",0
+"298","Maharastra","Akola",77.0082,20.7002,2020,"November",1
+"299","Maharastra","Akola",77.0082,20.7002,2020,"December",1
+"300","Maharastra","Akola",77.0082,20.7002,2021,"January",1
+"301","Maharastra","Akola",77.0082,20.7002,2021,"February",0
+"302","Maharastra","Akola",77.0082,20.7002,2021,"March",0
+"303","Maharastra","Akola",77.0082,20.7002,2021,"April",0
+"304","Maharastra","Akola",77.0082,20.7002,2021,"May",0
+"305","Maharastra","Akola",76.8058,20.5695,2018,"April",1
+"306","Maharastra","Akola",76.8058,20.5695,2018,"May",0
+"307","Maharastra","Akola",76.8058,20.5695,2018,"June",0
+"308","Maharastra","Akola",76.8058,20.5695,2018,"July",0
+"309","Maharastra","Akola",76.8058,20.5695,2018,"August",0
+"310","Maharastra","Akola",76.8058,20.5695,2018,"September",1
+"311","Maharastra","Akola",76.8058,20.5695,2018,"October",0
+"312","Maharastra","Akola",76.8058,20.5695,2018,"November",0
+"313","Maharastra","Akola",76.8058,20.5695,2018,"December",0
+"314","Maharastra","Akola",76.8058,20.5695,2019,"January",0
+"315","Maharastra","Akola",76.8058,20.5695,2019,"February",0
+"316","Maharastra","Akola",76.8058,20.5695,2019,"March",0
+"317","Maharastra","Akola",76.8058,20.5695,2019,"April",1
+"318","Maharastra","Akola",76.8058,20.5695,2019,"May",1
+"319","Maharastra","Akola",76.8058,20.5695,2019,"June",0
+"320","Maharastra","Akola",76.8058,20.5695,2019,"July",0
+"321","Maharastra","Akola",76.8058,20.5695,2019,"August",0
+"322","Maharastra","Akola",76.8058,20.5695,2019,"September",0
+"323","Maharastra","Akola",76.8058,20.5695,2019,"October",0
+"324","Maharastra","Akola",76.8058,20.5695,2019,"November",0
+"325","Maharastra","Akola",76.8058,20.5695,2019,"December",0
+"326","Maharastra","Akola",76.8058,20.5695,2020,"January",0
+"327","Maharastra","Akola",76.8058,20.5695,2020,"February",0
+"328","Maharastra","Akola",76.8058,20.5695,2020,"March",0
+"329","Maharastra","Akola",76.8058,20.5695,2020,"April",0
+"330","Maharastra","Akola",76.8058,20.5695,2020,"May",1
+"331","Maharastra","Akola",76.8058,20.5695,2020,"June",0
+"332","Maharastra","Akola",76.8058,20.5695,2020,"July",0
+"333","Maharastra","Akola",76.8058,20.5695,2020,"August",1
+"334","Maharastra","Akola",76.8058,20.5695,2020,"September",0
+"335","Maharastra","Akola",76.8058,20.5695,2020,"October",0
+"336","Maharastra","Akola",76.8058,20.5695,2020,"November",0
+"337","Maharastra","Akola",76.8058,20.5695,2020,"December",5
+"338","Maharastra","Akola",76.8058,20.5695,2021,"January",2
+"339","Maharastra","Akola",76.8058,20.5695,2021,"February",1
+"340","Maharastra","Akola",76.8058,20.5695,2021,"March",0
+"341","Maharastra","Akola",76.8058,20.5695,2021,"April",2
+"342","Maharastra","Akola",76.8058,20.5695,2021,"May",0
+"343","Maharastra","Akola",73.328,19.4521,2018,"April",0
+"344","Maharastra","Akola",73.328,19.4521,2018,"May",0
+"345","Maharastra","Akola",73.328,19.4521,2018,"June",0
+"346","Maharastra","Akola",73.328,19.4521,2018,"July",0
+"347","Maharastra","Akola",73.328,19.4521,2018,"August",0
+"348","Maharastra","Akola",73.328,19.4521,2018,"September",0
+"349","Maharastra","Akola",73.328,19.4521,2018,"October",0
+"350","Maharastra","Akola",73.328,19.4521,2018,"November",0
+"351","Maharastra","Akola",73.328,19.4521,2018,"December",0
+"352","Maharastra","Akola",73.328,19.4521,2019,"January",0
+"353","Maharastra","Akola",73.328,19.4521,2019,"February",0
+"354","Maharastra","Akola",73.328,19.4521,2019,"March",0
+"355","Maharastra","Akola",73.328,19.4521,2019,"April",0
+"356","Maharastra","Akola",73.328,19.4521,2019,"May",0
+"357","Maharastra","Akola",73.328,19.4521,2019,"June",0
+"358","Maharastra","Akola",73.328,19.4521,2019,"July",0
+"359","Maharastra","Akola",73.328,19.4521,2019,"August",0
+"360","Maharastra","Akola",73.328,19.4521,2019,"September",0
+"361","Maharastra","Akola",73.328,19.4521,2019,"October",1
+"362","Maharastra","Akola",73.328,19.4521,2019,"November",1
+"363","Maharastra","Akola",73.328,19.4521,2019,"December",0
+"364","Maharastra","Akola",73.328,19.4521,2020,"January",0
+"365","Maharastra","Akola",73.328,19.4521,2020,"February",0
+"366","Maharastra","Akola",73.328,19.4521,2020,"March",0
+"367","Maharastra","Akola",73.328,19.4521,2020,"April",0
+"368","Maharastra","Akola",73.328,19.4521,2020,"May",0
+"369","Maharastra","Akola",73.328,19.4521,2020,"June",0
+"370","Maharastra","Akola",73.328,19.4521,2020,"July",0
+"371","Maharastra","Akola",73.328,19.4521,2020,"August",0
+"372","Maharastra","Akola",73.328,19.4521,2020,"September",0
+"373","Maharastra","Akola",73.328,19.4521,2020,"October",0
+"374","Maharastra","Akola",73.328,19.4521,2020,"November",0
+"375","Maharastra","Akola",73.328,19.4521,2020,"December",1
+"376","Maharastra","Akola",73.328,19.4521,2021,"January",0
+"377","Maharastra","Akola",73.328,19.4521,2021,"February",1
+"378","Maharastra","Akola",73.328,19.4521,2021,"March",0
+"379","Maharastra","Akola",73.328,19.4521,2021,"April",0
+"380","Maharastra","Akola",73.328,19.4521,2021,"May",0
